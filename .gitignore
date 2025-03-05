@@ -1,5 +1,6 @@
 /.vscode
-/Hello_World.exe
-/Hello_World.o
-/Hello_World_MsgBox.exe
-/Hello_World_MsgBox.o
+/*.exe
+/*.o
+/*.obj
+*.txt
+/.gitignore
