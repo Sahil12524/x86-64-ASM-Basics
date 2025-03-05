@@ -1,6 +1,6 @@
 /.vscode
-/*.exe
-/*.o
-/*.obj
+*.exe
+*.o
+*.obj
 *.txt
-/.gitignore
+.gitignore
